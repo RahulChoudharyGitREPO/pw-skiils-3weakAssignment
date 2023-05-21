@@ -1,0 +1,57 @@
+
+Q1-> List out the features of html?
+ANS- 
+User Friendly & Simple.
+Semantic Structure.
+SEO – Search Engine Optimisation.
+localStorage & IndexedDB – Client-side data storage.
+Offline Capabilities (PWA) with Cache API & Service Workers.
+Canvas for Game Development. 
+
+<<<<<<.......................................................................>>>>
+
+Q-> What are HTML Entities? List out 5 commonly used html entities
+ANS-
+<	less than	&lt;
+>	greater than	&gt;
+&	ampersand	&amp;
+"	double quotation mark	&quot;
+<<<............................................................................>>>
+Q3-> what is web accessibility list some of the assistive devices 
+which play a major role in providing accessibility.
+ANS-
+
+Web accessibility means that websites, tools, and technologies are designed and
+ developed so that people with disabilities can use them. 
+ More specifically, people can: perceive, understand, navigate, and interact with the Web.
+ Hearing aids, wheelchairs, communication aids, spectacles, prostheses,
+  pill organizers and memory aids are all examples of assistive products.
+
+  <<<................................................................>>>>>>
+  
+  Q-4> list any 3 way s which helps us in improving the accessibility of html
+  ANS-
+
+ * Semantic HTML. Semantic HTML means using correct HTML elements for their correct purpose as much as possible. ...
+ * Headings Are Important. 
+ * Alternative Text.
+ <<<.................................................................>>>>>>
+
+ Q5-> Write a short note on the tab index
+
+ ANS-
+ The HTML tabindex attribute is used to manage keyboard focus. Used wisely, it can effectively handle focus within web widgets. 
+ Used unwisely however, the tabindex attribute can destroy the usability of web content for keyboard users.
+
+ <<<................................................................................................................>>>>>>>>>>>>>>>>>
+
+ Q6-> What are the benefits of using semantic tags in our webpage.
+ 
+ ANS-
+ The semantic HTML tags help the search engines and other user devices
+  to determine the importance and context of web pages.
+ The pages made with semantic elements are much easier to read.
+ It has greater accessibility. It offers a better user experience.
+
+ 
+ <<<<...............................THE End......................................................>>>>>>>>>>>>>>>>
